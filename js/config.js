@@ -19,5 +19,5 @@ const APP_CONFIG = {
   viewerBaseUrl: "https://cimcimmesut.github.io/projectviewer",
 
   // Dosya Limitleri
-  maxFileSizeMB: 150
+  maxFileSizeMB: 500
 };
