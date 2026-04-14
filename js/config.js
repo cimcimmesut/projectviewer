@@ -16,7 +16,7 @@ const APP_CONFIG = {
 
   // Viewer URL (deploy sonrası güncelleyin)
   // Lokal test: "http://localhost:8080"
-  viewerBaseUrl: "http://localhost:8080",
+  viewerBaseUrl: "https://cimcimmesut.github.io/projectviewer",
 
   // Dosya Limitleri
   maxFileSizeMB: 150
